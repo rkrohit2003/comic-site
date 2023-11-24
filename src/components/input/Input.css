@@ -1,0 +1,8 @@
+.minH{
+    min-height: 90vh;
+}
+.mt-50{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}

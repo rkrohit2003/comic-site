@@ -1,0 +1,10 @@
+.minH{
+    min-height: 90vh;
+}
+
+@media (min-width: 693px) {
+    .img-thumbnail {
+      width: 41vw;
+    }
+  }
+  
